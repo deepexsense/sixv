@@ -25,7 +25,7 @@ SECRET_KEY = 'eu417h+^kn4xt&#q@tc&@h^yr(gve)g5(g7ize+y)*921fbhu*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'smokeexhaust.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'vclasswebsite.pythonanywhere.com']
 
 
 # Application definition
