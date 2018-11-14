@@ -2,7 +2,6 @@ from django.conf.urls import url
 
 from sixv import views
 
-app_name = 'sixv'
 urlpatterns = [
-
+    url(r'^$', views.post_list, name='post_list'),
 ]
